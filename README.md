@@ -3,6 +3,8 @@ NIM : 312410291
 Step 1 :
 <img width="916" height="266" alt="image" src="https://github.com/user-attachments/assets/ded700a2-9f3d-415b-bf9a-49025ba7ff8e" />
 
+
+
 Step 2 :
 <img width="805" height="291" alt="image" src="https://github.com/user-attachments/assets/eb50ac09-4f65-4689-8df3-a52990dce102" />
 
